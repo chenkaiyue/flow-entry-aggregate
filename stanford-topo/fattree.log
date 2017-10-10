@@ -1,0 +1,18 @@
+DEBUG:__builtin__:Create Core Layer
+DEBUG:__builtin__:Create Agg Layer
+DEBUG:__builtin__:Create Edge Layer
+DEBUG:__builtin__:Create Host
+DEBUG:__builtin__:Finished topology creation!
+DEBUG:__builtin__:Add link Core to Agg.
+DEBUG:__builtin__:Add link Agg to Edge.
+DEBUG:__builtin__:Add link Edge to Host.
+DEBUG:__builtin__:Finished adding links!
+DEBUG:__builtin__:Create Core Layer
+DEBUG:__builtin__:Create Agg Layer
+DEBUG:__builtin__:Create Edge Layer
+DEBUG:__builtin__:Create Host
+DEBUG:__builtin__:Finished topology creation!
+DEBUG:__builtin__:Add link Core to Agg.
+DEBUG:__builtin__:Add link Agg to Edge.
+DEBUG:__builtin__:Add link Edge to Host.
+DEBUG:__builtin__:Finished adding links!
